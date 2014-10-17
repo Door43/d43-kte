@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kte:home|Door43 (kte)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kte|d43-kte repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kte/archive/master.zip|d43-kte.zip]]
+
+**Recent Changes**
+{{changes>ns = kte}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kte|Ethnologue data]]
+
